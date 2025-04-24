@@ -18,4 +18,4 @@ jobs:
          - name: dispay more things
            runs: |
              ls -la
-             
+             hostnamectl
