@@ -1,3 +1,5 @@
+name: cicd.yaml
+
 on:
      push:
        branches:
